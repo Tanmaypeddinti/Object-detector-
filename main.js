@@ -5,7 +5,7 @@ status = "";
 
 function setup() {
   canvas = createCanvas(380, 380);
-  canvas.position(400,);
+  canvas.position(380,);
   video = createCapture(VIDEO);
   video.size(380,380);
   video.hide();
