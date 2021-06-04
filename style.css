@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+.heading
+{
+padding-top: 5px;
+padding-bottom: 5px;
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: white;
+background: rgb(255,138,0);
+background: linear-gradient(90deg, rgba(255,138,0,1) 0%, rgba(255,240,0,1) 88%);
+font-family: 'Rye', cursive;
+}
+
+#status,#number_of_objects
+{
+font-size: 18px;
+background: #f73636;
+background: linear-gradient(90deg,#f73636 0%, #ff008b 50%, #bd0fc2 100%);
+background: -webkit-linear-gradient(90deg,#f73636 0%, #ff008b 50%, #bd0fc2 100%);
+background: -moz-linear-gradient(90deg,#f73636 0%, #ff008b 50%, #bd0fc2 100%);color: white;
+width: 250px;
+padding-top: 5px;
+padding-bottom: 5px;
+white-space: pre-line;
+border-radius: 5px;
+border: white 3px groove;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px 0px rgba(255,95,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(255,95,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(255,95,0,0.75);
+    border-radius: 42px 0px 67px 0px;
+    -webkit-border-radius: 42px 0px 67px 0px;
+    -moz-border-radius: 42px 0px 67px 0px;
+border: 14px double #ff7300;
+background-color: ivory;
+}
