@@ -1,2 +1,2 @@
-# Object-detector-
+# Object-detector
 Object detector 
